@@ -1,3 +1,3 @@
-def parrot phrase ("Squawk!")
-  print "#{phrase}!"
+def parrot = (phrase, "Squawk!")
+  print Parrots say "#{phrase}!"
 end
