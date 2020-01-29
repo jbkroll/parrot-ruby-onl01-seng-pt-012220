@@ -1,3 +1,3 @@
-def phrase (parrot = "Squawk!")
- puts "#{parrot}"
+def parrot (phrase = "Squawk!")
+ puts "#{phrase}"
 end
